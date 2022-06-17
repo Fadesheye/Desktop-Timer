@@ -1,0 +1,13 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(13, 163, 233);
+}
+
+#clock{
+    font-family: 'arial', sans-serif;
+    font-size: 5rem;
+    color: red;
+}
